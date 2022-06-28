@@ -1,2 +1,2 @@
 puts 'Hello World'
-puts "="*50
+puts "=" * 50
